@@ -3,12 +3,15 @@
 ## Project Overview
 This project focuses on the analysis and visualization of elevation across Jos Metropolis using GIS.
 
+## Objective
+To visualize elevation patterns across Jos Metropolis and produce a clear and informative map.
+
 ## Tools Used
 - QGIS
 - Digital Elevation Model (DEM)
 
-## Objective
-To visualize elevation patterns across Jos Metropolis and produce a clear and informative map.
+## Final Map
+![Jos Metropolis Elevation Map](JOS GIS PROJECT METROPOLIS.png)
 
 ## Output
 The final map provides a visual representation of elevation variation across the study area.
